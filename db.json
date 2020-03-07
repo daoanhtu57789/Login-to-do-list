@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "password": "123",
+      "data": [
+        {
+          "title": "Đào Anh Tú2",
+          "description": "2",
+          "status": 2,
+          "id": 2
+        },
+        {
+          "title": "Đào Anh Tú1",
+          "description": "1",
+          "status": 1,
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "admin1",
+      "password": "123",
+      "data": [],
+      "id": 2
+    },
+    {
+      "name": "admin2",
+      "password": "123",
+      "data": [],
+      "id": 3
+    },
+    {
+      "name": "admin4",
+      "password": "123",
+      "data": [],
+      "id": 4
+    }
+  ]
+}
